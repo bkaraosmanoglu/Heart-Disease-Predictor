@@ -1,1 +1,16 @@
 # Heart-Disease-Predictor
+
+The requirements.txt file contains the following libraries and tools we need.
+
+```
+python == 3.9.7
+npm == 8.11.0
+numpy == 1.20.3
+sklearn == 0.0
+requests == 2.27.1
+flask == 1.1.2
+pandas == 1.3.4
+matplotlib == 3.4.3
+scikit-learn == 0.24.2
+pickle 
+```
